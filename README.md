@@ -16,7 +16,7 @@ JavaScript • Tailwind • UI/UX Focused
 - UI/UX Best Practices
 
 ## 🚀 Website
-- https://muffins-code.vercel.app/
+- https://muffins-portfolio.vercel.app/
 
 ## 🎯 Goals
 - Build scalable frontend applications
